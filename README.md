@@ -11,8 +11,6 @@ The Tractus-X project is structured along the 4 domains :
 
 Network & Core Services domain forms the basis for the functionality of the business domains. It is the foundation to build on and is mainly provided by the operator.
 
-![Screenshot 2024-09-07 at 01.40.42.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7101a1fa-6bfc-4b99-9b60-b5fc838f5bd3/ba09a621-ff27-4e1e-b5fc-10023357c0b6/Screenshot_2024-09-07_at_01.40.42.png)
-
 ### 1.1 Agent Kit
 
 ### 1.2 Business Partner Kit
@@ -41,11 +39,7 @@ https://github.com/eclipse-edc/Connector
 
 ## 2. PLM / Quality:
 
-![Screenshot 2024-09-07 at 01.41.13.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7101a1fa-6bfc-4b99-9b60-b5fc838f5bd3/baad376d-d92b-413d-83c1-53820811874c/Screenshot_2024-09-07_at_01.41.13.png)
-
 ## 3. Sustainability:
-
-![Screenshot 2024-09-07 at 01.41.29.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7101a1fa-6bfc-4b99-9b60-b5fc838f5bd3/5d771c27-b35f-4c2b-b92c-d51b75b5158d/Screenshot_2024-09-07_at_01.41.29.png)
 
 ### 3.1 Circularity:
 
@@ -84,7 +78,5 @@ https://catena-x.net/fileadmin/user_upload/Publikationen_und_WhitePaper_des_Vere
 ### 3.4 PCF
 
 ## 4. Resiliency:
-
-![Screenshot 2024-09-07 at 01.41.47.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/7101a1fa-6bfc-4b99-9b60-b5fc838f5bd3/67833a38-720a-4335-9f1e-56403d6e765f/Screenshot_2024-09-07_at_01.41.47.png)
 
 #
